@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "endercarftsmp.mcsh.io",
+    "ip": "atoms-stimulate.tun.ply.gg",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
