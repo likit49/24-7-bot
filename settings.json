@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
+    "ip": "endercarftsmp.mcsh.io",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
+        "my woner is tanmaya kumar rayaguru",
         "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
