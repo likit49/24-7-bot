@@ -31,8 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "i am a bot 24/7",
-        "my woner is likit"
+        ".."
       ]
     },
     "chat-log": true,
