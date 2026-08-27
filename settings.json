@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "likitsmp.aternos.me",
-    "port": 29759,
+    "ip": "ENDERCRAFTSMP.aternos.me",
+    "port": 41091,
     "version": "1.20.1",
     "try-creative": false
   },
