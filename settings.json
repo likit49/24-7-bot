@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ENDERCRAFTSMP.aternos.me",
-    "port": 41091,
+    "ip": "play.endercraft.dpdns.org",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
